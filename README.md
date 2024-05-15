@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+About Me
+*coming soon*
+
+Techinical Skills
+*coming soon*
+
+Key Projects
+*coming soon*
+
+
+
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
