@@ -9,6 +9,11 @@ Techinical Skills
 Key Projects
 *coming soon*
 
+Professional Goals:
+*coming soon*
+
+Connect with Me
+*coming soon*
 
 
 <!--
