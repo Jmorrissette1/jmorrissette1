@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 About Me
-*coming soon*
+Hi, I’m Jason Morrissette, a fun-loving, nerdy designer and full-stack engineer. I specialize in crafting custom web solutions using Modern Web Technologies. With a passion for blending creativity and technical prowess, I transform my clients' visions into stunning and functional digital experiences. From sleek websites to 
+dynamic web applications, I’m dedicated to delivering top-notch results thatexceed expectations.
 
 Techinical Skills
 *coming soon*
