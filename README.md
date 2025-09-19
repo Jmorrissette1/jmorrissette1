@@ -1,21 +1,7 @@
-### Hi there 👋
-
-About Me
-Hi, I’m Jason Morrissette, a fun-loving, nerdy designer and full-stack engineer. I specialize in crafting custom web solutions using Modern Web Technologies. With a passion for blending creativity and technical prowess, I transform my clients' visions into stunning and functional digital experiences. From sleek websites to 
-dynamic web applications, I’m dedicated to delivering top-notch results thatexceed expectations.
-
-Techinical Skills
-*coming soon*
-
-Key Projects
-*coming soon*
-
-Professional Goals:
-*coming soon*
-
-Connect with Me
-*coming soon*
-
+👋 Hi, I’m Jason Morrissette — Full-Stack Engineer turned Cybersecurity Enthusiast.
+🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).
+🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.
+⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).
 
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
