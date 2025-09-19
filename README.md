@@ -1,9 +1,9 @@
 
 
-👋 Hi, I’m Jason Morrissette — Full-Stack Engineer turned Cybersecurity Enthusiast.
-🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).
-🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.
-⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).
+👋 Hi, I’m Jason Morrissette — Full-Stack Engineer turned Cybersecurity Enthusiast.<br>
+🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).<br>
+🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
+⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
 
 
 ### 🛡️ Security & Blue Team
