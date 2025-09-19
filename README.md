@@ -1,3 +1,11 @@
+
+
+👋 Hi, I’m Jason Morrissette — Full-Stack Engineer turned Cybersecurity Enthusiast.
+🔹 Blue Team focus: SIEM, threat hunting, Snort, Zeek, Tenable, Azure Security, Microsoft Defender for Endpoint (MDE).
+🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.
+⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).
+
+
 ### 🛡️ Security & Blue Team
 ![Tenable](https://img.shields.io/badge/Tenable-0095D9?style=for-the-badge&logo=tenable&logoColor=white)
 ![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -17,6 +25,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 🎓 Certifications In Progress
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
