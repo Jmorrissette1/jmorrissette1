@@ -10,6 +10,8 @@
 
 🚨 Threat Hunting & Security Operations
 
+
+<h1>Skills</h1>
 ### 🛡️ Security & Blue Team
 ![Tenable](https://img.shields.io/badge/Tenable-0095D9?style=for-the-badge&logo=tenable&logoColor=white)
 ![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
