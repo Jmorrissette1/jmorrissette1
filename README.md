@@ -11,7 +11,7 @@
 🚨 Threat Hunting & Security Operations
 
 
-<h1>Skills</h1>
+<h2>Skills</h2>
 
 ### 🛡️ Security & Blue Team
 ![Tenable](https://img.shields.io/badge/Tenable-0095D9?style=for-the-badge&logo=tenable&logoColor=white)
