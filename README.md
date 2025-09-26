@@ -6,7 +6,7 @@
 🔹 Red Team goals: Pen testing, exploit dev, adversary simulation, OSCP path.<br>
 ⚡ Always learning — from secure coding & OWASP to hands-on labs and certifications (Security+ → CySA+ → OSCP).<br>
 
-
+<h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
 🚨 Threat Hunting & Security Operations
 
