@@ -35,6 +35,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 
 <h2>Simulated Detection Enviornment </h2>
 <a href="https://github.com/TugFury/Detection-Engineering-Lab/blob/main/Microsoft%20Labs/01-canary-inventory-tripwire/README.md">Canary Trip Wire </a>
+<a href="https://github.com/Jmorrissette1/Detection-Engineering-environment/blob/main/Splunk%20Labs/Brute-Force-Canary/README.md"> Brute Force Canary </a>
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 <h3>THE AZUKI BREACH SAGA</h3>
