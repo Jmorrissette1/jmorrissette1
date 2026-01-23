@@ -32,6 +32,9 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
   <li>Vulnerability management and remediation workflows</li>
   <li>Incident response and forensic analysis</li>
 </ul>
+<h2>Azure Cloud Deployments </h2>
+
+
 
 <h2>Simulated Detection Enviornment </h2>
 <a href="https://github.com/TugFury/Detection-Engineering-Lab/blob/main/Microsoft%20Labs/01-canary-inventory-tripwire/README.md">Canary Trip Wire </a>
