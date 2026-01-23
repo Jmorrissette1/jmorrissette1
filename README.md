@@ -91,7 +91,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
 ### 🎯 Practical Labs & Platforms
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5308835" style='border:none;'></iframe>
 <a href="https://tryhackme.com/p/TugFury"><img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" /></a>
 
 <!--
