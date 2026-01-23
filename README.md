@@ -93,7 +93,7 @@ I’ve already completed the Google Cybersecurity Certificate, completed two thr
 
 
 
-<a href="https://tryhackme.com/p/TugFury"><img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" /></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" />
 
 <!--
 **Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
