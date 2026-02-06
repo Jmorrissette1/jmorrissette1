@@ -1,6 +1,6 @@
 
+<h1 align="center">🛡️ Jason Morrissette — Cloud & Security Engineer | Threat Hunter | Detection Engineer</h1>
 
-<h1 align="center">🛡️ Jason Morrissette — Cloud Security Engineer | SOC Analyst | Threat Hunter | Detection Engineer</h1>
 <p align="center"><img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/> <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/> 
 <p>
 I investigate security incidents, hunt threats, and build detection rules aligned to MITRE ATT&CK.
