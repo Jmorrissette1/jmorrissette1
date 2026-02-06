@@ -3,8 +3,15 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/> <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/> 
 <p>
-I investigate security incidents, hunt threats, and build detection rules aligned to MITRE ATT&CK.
-I’ve already completed the Google Cybersecurity Certificate, completed two threat-hunting competitions, and actively build real security tools, including an AI SOC agent, secure dashboards, and internal analytics systems.</p>
+I’m an infrastructure and security engineer with 19 years of experience spanning networking, systems administration, software development, and security operations. I specialize in cloud infrastructure, automation, and secure system design.
+
+I’m currently focused on cloud engineering, building expertise in Azure architecture, infrastructure automation, and cloud security practices that scale.
+
+My background provides me with full-stack visibility, giving me insight into how systems are designed, deployed, automated, and maintained. 
+
+My passion for cybersecurity allows me to harden and secure these systems and investigate issues when things go wrong. 
+
+That perspective allows me to approach cloud environments not just as platforms to configure, but as systems to engineer.</p>
 
 <h2>What you'll find here: </h2>
 <ul>
