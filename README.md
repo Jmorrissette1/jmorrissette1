@@ -48,6 +48,10 @@ That perspective allows me to approach cloud environments not just as platforms 
 
 <a href="https://github.com/Jmorrissette1/Detection-Engineering-environment/blob/main/Splunk%20Labs/Brute-Force-Canary/README.md"> Brute Force Canary </a>
 
+
+<h2> Cloud Engineering </h2>
+
+
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 <h3>THE AZUKI BREACH SAGA</h3>
 <ul>
