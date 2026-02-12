@@ -48,16 +48,10 @@ Azure (Key Vault, Functions, Cosmos DB, Static Web Apps) | Terraform | TypeScrip
 
 ---
 
-## 💼 What You'll Find Here
-
-### ☁️ Cloud Engineering & Infrastructure
+### Cloud Engineering & Infrastructure Projects
 - **[Print and Deploy]([https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy))** - Production e-commerce platform with enterprise security
-- Infrastructure as Code (Terraform)
-- Serverless architecture (Azure Functions)
-- Cost optimization strategies
-- Security-first design patterns
 
-### 🛡️ Security Operations & Detection Engineering
+### Security Operations & Detection Engineering
 - **Threat Hunts** - Hypothesis-driven investigations with full timelines
 - **Detection Rules** - Custom KQL queries for Sentinel/Defender
 - **Security Automation** - Python scripts for threat detection and compliance
@@ -70,7 +64,6 @@ Azure (Key Vault, Functions, Cosmos DB, Static Web Apps) | Terraform | TypeScrip
 - **[CVE Remediations](#)** - Hands-on analysis and fixes
 
 ### 🎯 Threat Hunting & Investigations
-- **[The Azuki Breach Saga](#)** - Full investigation writeup
 - **[Port of Entry](#)** - Cyber range community investigation
 - Defender for Endpoint hunting queries
 - Microsoft Sentinel correlation rules
