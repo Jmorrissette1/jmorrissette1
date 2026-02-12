@@ -57,9 +57,13 @@ Azure (Key Vault, Functions, Cosmos DB, Static Web Apps) | Terraform | TypeScrip
 - **Security Automation** - Python scripts for threat detection and compliance
 - **SOC Writeups** - TTPs, IOCs, and remediation documentation
 
-### 🔧 Blue Team Tools & Automation
-- **[Simulated Detection Environment](#)** - Canary trip wires and brute force detection
-- **[Vulnerability Management](#)** - Framework using Tenable and PowerShell
+### 🔧 Blue Team Tools & Automation 
+<ul>**[Simulated Detection Environment](#)
+    <li>Canary</li>
+</ul>
+<ul>[Vulnerability Management](#)
+  <li>Coming Soon</li>
+</ul>
 - **[STIG Implementations](#)** - Automated compliance checks
 - **[CVE Remediations](#)** - Hands-on analysis and fixes
 
