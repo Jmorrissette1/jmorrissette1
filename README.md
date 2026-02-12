@@ -1,126 +1,156 @@
 
-<h1 align="center">🛡️ Jason Morrissette — Cloud & Security Engineer | Threat Hunter | Detection Engineer</h1>
+# 🛡️ Jason Morrissette — Cloud Security Engineer
 
-<p align="center"><img src="https://img.shields.io/badge/Threat%20Hunter-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Engineering-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud%20Security-azure?style=flat-square"/> <img src="https://img.shields.io/badge/Offensive%20Security-red?style=flat-square"/> 
-<p>
-I’m an infrastructure and security engineer with 19 years of experience spanning networking, systems administration, software development, and security operations. I specialize in cloud infrastructure, automation, and secure system design.
+**Building secure, production-ready systems on Azure | 19 years in IT | Currently: Launching an e-commerce platform with security-first architecture**
 
-I’m currently focused on cloud engineering, building expertise in Azure architecture, infrastructure automation, and cloud security practices that scale.
+---
 
-My background provides me with full-stack visibility, giving me insight into how systems are designed, deployed, automated, and maintained. 
+## About Me
 
-My passion for cybersecurity allows me to harden and secure these systems and investigate issues when things go wrong. 
+I'm a cloud security engineer with 19 years of experience spanning infrastructure, development, and security operations. I specialize in **building secure cloud systems** with defense-in-depth architecture, automation, and Infrastructure as Code.
 
-That perspective allows me to approach cloud environments not just as platforms to configure, but as systems to engineer.</p>
+**Current Focus:**
+- **Building in public:** Architecting and launching [Print and Deploy](https://github.com/jasonmorrissette/print-and-deploy) - a production e-commerce platform on Azure
+- **Security-first design:** Implementing enterprise-grade security from day one, not bolting it on later
+- **Cloud engineering:** Azure infrastructure, Terraform, serverless architecture, cost optimization
+- **Security automation:** Python-based threat detection, compliance monitoring, and incident response
 
-<h2>What you'll find here: </h2>
-<ul>
-  <li>Hypothesis-driven threat hunts with full investigation timelines</li>
-  <li>Custom detection rules and KQL queries for SIEM/EDR platforms</li>
-  <li>Security tools and automation scripts (Python, PowerShell)</li>
-  <li> SOC-style writeups documenting TTPs, IOCs, and remediation</li>
-</ul>
+**What makes me different:**
+My 19-year journey (Help Desk → Sysadmin → Network Engineer → Developer → Security) gives me **full-stack visibility** into how systems are built, deployed, secured, exploited, and defended. I don't just configure cloud platforms — I **engineer secure systems** with deep understanding of the entire stack.
 
-<h2>Background:</h2>
-<p>19 years in IT (Help Desk → Sysadmin → Network Engineer → Software Developer)</p>
-<p>This background gives me deep context for how systems are:</p>
-<ul>
-  <li>Built and operated</li>
-  <li>Secured (and misconfigured)</li>
-  <li>Exploited by attackers</li>
-  <li>Defended through effective detection engineering</li>
-</ul>
+---
+
+## 🚀 Featured Project: Print and Deploy
+
+**A security-first e-commerce platform built on Azure**
+
+[🔗 View Project](https://github.com/jasonmorrissette/print-and-deploy) | 📅 Launching March 2026
+
+**What it demonstrates:**
+- ✅ **Production infrastructure:** Real business processing actual payments
+- ✅ **Security architecture:** Key Vault, RBAC, comprehensive audit logging, PCI compliance
+- ✅ **Infrastructure as Code:** 100% Terraform, reproducible deployments
+- ✅ **Cost optimization:** Running at ~$2/month using Azure free tiers
+- ✅ **Polyglot development:** TypeScript (business logic) + Python (security automation)
+- ✅ **Full documentation:** Architecture decisions, deployment logs, security design
+
+**Tech Stack:**  
+Azure (Key Vault, Functions, Cosmos DB, Static Web Apps) | Terraform | TypeScript | Python | Next.js | Stripe
+
+**Security Highlights:**
+- Defense-in-depth architecture designed from day one
+- Zero secrets in code (all in Key Vault with RBAC)
+- Automated threat detection (Python security functions)
+- Comprehensive audit logging (90-day retention)
+- PCI-compliant payment processing
+
+> This isn't a tutorial project — it's a **real business** that doubles as a portfolio demonstrating production cloud security engineering.
+
+---
+
+## 💼 What You'll Find Here
+
+### ☁️ Cloud Engineering & Infrastructure
+- **[Print and Deploy](https://github.com/jasonmorrissette/print-and-deploy)** - Production e-commerce platform with enterprise security
+- Infrastructure as Code (Terraform)
+- Serverless architecture (Azure Functions)
+- Cost optimization strategies
+- Security-first design patterns
+
+### 🛡️ Security Operations & Detection Engineering
+- **Threat Hunts** - Hypothesis-driven investigations with full timelines
+- **Detection Rules** - Custom KQL queries for Sentinel/Defender
+- **Security Automation** - Python scripts for threat detection and compliance
+- **SOC Writeups** - TTPs, IOCs, and remediation documentation
+
+### 🔧 Blue Team Tools & Automation
+- **[Simulated Detection Environment](#)** - Canary trip wires and brute force detection
+- **[Vulnerability Management](#)** - Framework using Tenable and PowerShell
+- **[STIG Implementations](#)** - Automated compliance checks
+- **[CVE Remediations](#)** - Hands-on analysis and fixes
+
+### 🎯 Threat Hunting & Investigations
+- **[The Azuki Breach Saga](#)** - Full investigation writeup
+- **[Port of Entry](#)** - Cyber range community investigation
+- Defender for Endpoint hunting queries
+- Microsoft Sentinel correlation rules
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure:**  
+Azure | Terraform | Azure Functions | Cosmos DB | Key Vault | Log Analytics
+
+**Security:**  
+Microsoft Sentinel | Defender for Endpoint | SIEM (KQL, SPL) | Vulnerability Management | Threat Hunting
+
+**Development:**  
+Python | TypeScript/Node.js | PowerShell | Bash | Next.js
+
+**Security Tools:**  
+Tenable | Splunk | Wireshark | Volatility | YARA
+
+---
+
+## 🎯 Current Goals
+
+**Q1 2026:**
+- ✅ Launch Print and Deploy (March 31)
+- 🔄 Build Python security automation suite (threat detection, compliance monitoring)
+- 🔄 Expand cloud security portfolio
+- 🔄 Pursue cloud security engineering opportunities
+
+**Learning:**
+- Advanced Azure security (Defender for Cloud, Sentinel)
+- Security automation with Python
+- Threat modeling and risk assessment
+- Cloud cost optimization at scale
+
+---
+
+## Background
+
+**19 Years in IT:**  
+Help Desk → Systems Administrator → Network Engineer → Software Developer → Security Operations
+
+This journey gives me unique perspective:
+- **Infrastructure:** I've built and operated the systems attackers target
+- **Development:** I understand how (and why) vulnerabilities are introduced
+- **Security:** I know how to detect, investigate, and remediate threats
+- **Cloud:** I engineer secure, scalable, cost-effective solutions
+
+---
+
+## Certifications
+
+**Obtained:**
+- [List your current certs]
+
+**In Progress:**
+- AZ-900
+- Sec + 
 
 
-<h2>Current focus: </h2>
-<ul>
-  <li>Threat hunting in Microsoft Sentinel and Defender for Endpoint</li>
-  <li>Detection engineering and SIEM correlation rules</li>
-  <li>Vulnerability management and remediation workflows</li>
-  <li>Incident response and forensic analysis</li>
-</ul>
+## 🎮 Practical Experience
 
+**Active Labs & Platforms:**
+- TryHackMe
+- HackTheBox
+- Azure
+---
 
-<h2>Simulated Detection Enviornment </h2>
-<a href="https://github.com/TugFury/Detection-Engineering-Lab/blob/main/Microsoft%20Labs/01-canary-inventory-tripwire/README.md">Canary Trip Wire </a>
+## 📫 Let's Connect
 
-<a href="https://github.com/Jmorrissette1/Detection-Engineering-environment/blob/main/Splunk%20Labs/Brute-Force-Canary/README.md"> Brute Force Canary </a>
+**LinkedIn:**[ [Your LinkedIn] ](https://www.linkedin.com/in/jasonmorrissette/) 
+**Email:** j.morrissette47@gmail.com  
+**Website:** [printanddeploy.com](https://printanddeploy.com) *(launching March 2026)*
 
+**Open to:** Cloud Security Engineering roles | Building in public | Cybersecurity community
 
-<h2> Cloud Engineering </h2>
-<ul>
-  <li><a href="https://github.com/Jmorrissette1/print-and-deploy">Print and Deploy</a></li>
-</ul>
+---
 
-<h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
-<h3>THE AZUKI BREACH SAGA</h3>
-<ul>
-<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Port%20of%20Entry">Port of Entry</a></li>
-<!--<li><a href="https://github.com/TugFury/Threat-Hunts/tree/main/Cargo%20Hold">Cargo Hold</a></li>-->
-<!--<li><a href="#">Bridge Takeover</a></li>
-<li><a href="#">Dead in the Water</a></li> -->
-</ul>
+**⚔️ Building secure systems. Hunting threats. Engineering solutions.**
 
-
-<h2>🔧 Security Operations & Automation</h2>
-
-🔵 BLUE TEAM 🔵 
-<ul>
-<p><a href="https://github.com/TugFury/vulnerability-management-program">Vulnerability Management Program Implementation</a></p>
-<p>Framework and automation for enterprise vulnerability assessment, risk prioritization, and remediation tracking using Tenable and PowerShell.</p>
-<p><a href="https://github.com/TugFury/STIGS">STIG Implementations</a></p>
-<p>PowerShell scripts for automated DISA STIG compliance checks and remediation across Windows/Linux environments.</p>
-<p><a href="#">SIEM SOC Environment(in progress)</a></p>
-<p>SIEM analysis using KQL (Sentinel) and SPL (Splunk) with correlation rules and custom dashboards</p>
-<p><a href="#">CVE Remediations</a></p>
-<p>Hands-on CVE analysis and remediation (including Next.js).</p>
-</ul>
-
-<h2>Skills</h2>
-
-### 🛡️ Security & Blue Team
-![Tenable](https://img.shields.io/badge/Tenable-0095D9?style=for-the-badge&logo=tenable&logoColor=white)
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/MDE-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Security](https://img.shields.io/badge/Azure_Security-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-2E3440?style=for-the-badge&logoColor=white)
-
-### ⚔️ Offensive / Red Team Goals
-![Penetration Testing](https://img.shields.io/badge/Pen--Testing-FF4F00?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Exploit Dev](https://img.shields.io/badge/Exploit_Dev-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-![OSCP](https://img.shields.io/badge/OSCP_Path-DA1F26?style=for-the-badge&logo=offensive-security&logoColor=white)
-
-### 💻 Development & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎓 Certifications Obtained
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### 🎓 Certifications In Progress
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
-### 🎯 Practical Labs & Platforms
-
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/TugFury.png" alt="Your Image Badge" />
-
-<!--
-**Jmorrissette1/jmorrissette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+*Currently building: A production e-commerce platform with security-first architecture on Azure*
+```
