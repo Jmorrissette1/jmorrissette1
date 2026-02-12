@@ -139,7 +139,7 @@ This journey gives me unique perspective:
 
 ## 📫 Let's Connect
 
-**LinkedIn:**[ [Your LinkedIn] ](https://www.linkedin.com/in/jasonmorrissette/) 
+**LinkedIn:**[Connect With ME](https://www.linkedin.com/in/jasonmorrissette/)
 **Email:** j.morrissette47@gmail.com  
 **Website:** [printanddeploy.com](https://printanddeploy.com) *(launching March 2026)*
 
