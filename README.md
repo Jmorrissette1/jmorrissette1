@@ -39,8 +39,6 @@ That perspective allows me to approach cloud environments not just as platforms 
   <li>Vulnerability management and remediation workflows</li>
   <li>Incident response and forensic analysis</li>
 </ul>
-<h2>Azure Cloud Deployments </h2>
-
 
 
 <h2>Simulated Detection Enviornment </h2>
@@ -50,7 +48,9 @@ That perspective allows me to approach cloud environments not just as platforms 
 
 
 <h2> Cloud Engineering </h2>
-
+<ul>
+  <li><a href="https://github.com/Jmorrissette1/print-and-deploy">Print and Deploy</a></li>
+</ul>
 
 <h2>🛡️ Threat Hunts – Cyber Range Community Investigations & Competitions</h2>
 <h3>THE AZUKI BREACH SAGA</h3>
