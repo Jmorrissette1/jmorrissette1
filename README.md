@@ -10,7 +10,7 @@
 I'm a cloud security engineer with 19 years of experience spanning infrastructure, development, and security operations. I specialize in **building secure cloud systems** with defense-in-depth architecture, automation, and Infrastructure as Code.
 
 **Current Focus:**
-- **Building in public:** Architecting and launching <a href="https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy">Print and Deploy</a> a production e-commerce platform on Azure
+- **Building in public:** Architecting and launching <a href="https://github.com/jasonmorrissette/print-and-deploy">Print and Deploy</a> a production e-commerce platform on Azure
 - **Security-first design:** Implementing enterprise-grade security from day one, not bolting it on later
 - **Cloud engineering:** Azure infrastructure, Terraform, serverless architecture, cost optimization
 - **Security automation:** Python-based threat detection, compliance monitoring, and incident response
