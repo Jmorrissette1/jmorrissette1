@@ -20,11 +20,11 @@ My 19-year journey (Help Desk → Sysadmin → Network Engineer → Developer �
 
 ---
 
-## 🚀 Featured Project: Print and Deploy
+## Featured Project: Print and Deploy
 
 **A security-first e-commerce platform built on Azure**
 
-[🔗 View Project]([https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy)) | 📅 Launching March 2026
+[🔗 View Project]([https://github.com/jmorrissette1/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy)) | 📅 Launching March 2026
 
 **What it demonstrates:**
 - ✅ **Production infrastructure:** Real business processing actual payments
