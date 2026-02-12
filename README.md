@@ -10,7 +10,7 @@
 I'm a cloud security engineer with 19 years of experience spanning infrastructure, development, and security operations. I specialize in **building secure cloud systems** with defense-in-depth architecture, automation, and Infrastructure as Code.
 
 **Current Focus:**
-- **Building in public:** Architecting and launching [Print and Deploy](https://github.com/jasonmorrissette/print-and-deploy) - a production e-commerce platform on Azure
+- **Building in public:** Architecting and launching [Print and Deploy]([https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy)) - a production e-commerce platform on Azure
 - **Security-first design:** Implementing enterprise-grade security from day one, not bolting it on later
 - **Cloud engineering:** Azure infrastructure, Terraform, serverless architecture, cost optimization
 - **Security automation:** Python-based threat detection, compliance monitoring, and incident response
@@ -24,7 +24,7 @@ My 19-year journey (Help Desk → Sysadmin → Network Engineer → Developer �
 
 **A security-first e-commerce platform built on Azure**
 
-[🔗 View Project](https://github.com/jasonmorrissette/print-and-deploy) | 📅 Launching March 2026
+[🔗 View Project]([https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy)) | 📅 Launching March 2026
 
 **What it demonstrates:**
 - ✅ **Production infrastructure:** Real business processing actual payments
@@ -51,7 +51,7 @@ Azure (Key Vault, Functions, Cosmos DB, Static Web Apps) | Terraform | TypeScrip
 ## 💼 What You'll Find Here
 
 ### ☁️ Cloud Engineering & Infrastructure
-- **[Print and Deploy](https://github.com/jasonmorrissette/print-and-deploy)** - Production e-commerce platform with enterprise security
+- **[Print and Deploy]([https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy))** - Production e-commerce platform with enterprise security
 - Infrastructure as Code (Terraform)
 - Serverless architecture (Azure Functions)
 - Cost optimization strategies
