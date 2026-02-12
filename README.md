@@ -16,7 +16,7 @@ I'm a cloud security engineer with 19 years of experience spanning infrastructur
 - **Security automation:** Python-based threat detection, compliance monitoring, and incident response
 
 **What makes me different:**
-My 19-year journey (Help Desk → Sysadmin → Network Engineer → Developer → Security) gives me **full-stack visibility** into how systems are built, deployed, secured, exploited, and defended. I don't just configure cloud platforms — I **engineer secure systems** with deep understanding of the entire stack.
+My 19-year journey (Help Desk → Sysadmin → Network Engineer → Developer → Security) gives me **full-stack visibility** into how systems are built, deployed, secured, exploited, and defended. I don't just configure cloud platforms. I **engineer secure systems** with deep understanding of the entire stack.
 
 ---
 
