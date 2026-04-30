@@ -1,10 +1,10 @@
-# 🛡️ Jason Morrissette — Cloud Security Engineer
+# Jason Morrissette — Cloud Security Engineer
 
 Cloud Security Engineer focused on building secure, production-grade systems in Azure using identity-first architecture and Infrastructure as Code.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I design, build, and secure cloud-native applications with a focus on:
 
@@ -17,7 +17,7 @@ My work combines cloud engineering, application security, and detection to creat
 
 ---
 
-## 🔐 Featured Project — Print & Deploy
+## Featured Project — Print & Deploy
 
 A production Azure-based e-commerce platform handling authentication, payments, and user data.
 
@@ -35,7 +35,7 @@ A production Azure-based e-commerce platform handling authentication, payments, 
 
 ---
 
-## 🚗 Active Project — Driven By You (In Development)
+## Active Project — Driven By You (In Development)
 
 Cloud-native Azure application supporting a mobile-first campaign with real user interaction and lead capture.
 
@@ -49,7 +49,7 @@ Cloud-native Azure application supporting a mobile-first campaign with real user
 
 ---
 
-## 🧠 Security Approach
+##  Security Approach
 
 Security is built into every system:
 
@@ -61,7 +61,7 @@ Security is built into every system:
 
 ---
 
-## 🛠️ Core Stack
+##  Core Stack
 
 **Cloud & Security**  
 Azure | Entra ID | Key Vault | Terraform | Sentinel | Log Analytics  
@@ -74,10 +74,10 @@ KQL | SIEM | Threat Hunting | Vulnerability Management
 
 ---
 
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://linkedin.com/in/jasonmorrissette  
 
 ---
 
-⚔️ Building secure systems. Engineering defenses. Shipping real solutions.
+Building secure systems. Engineering defenses. Shipping real solutions.
