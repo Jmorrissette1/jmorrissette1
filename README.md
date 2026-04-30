@@ -21,7 +21,7 @@ My work combines cloud engineering, application security, and detection to creat
 
 A production Azure-based e-commerce platform handling authentication, payments, and user data.
 
-🔗 https://github.com/Jmorrissette1/print-and-deploy
+🔗 [https://github.com/Jmorrissette1/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy-architecture)
 
 ### Key Highlights
 - Managed Identity for service-to-service authentication (no stored credentials)
