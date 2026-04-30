@@ -1,153 +1,84 @@
-
 # 🛡️ Jason Morrissette — Cloud Security Engineer
 
-**Building secure, production-ready systems on Azure | 19 years in IT | Currently: Launching an e-commerce platform with security-first architecture**
+Cloud Security Engineer focused on building secure, production-grade systems in Azure using identity-first architecture and Infrastructure as Code.
 
 ---
 
-## About Me
+## 🚀 What I Do
 
-I'm a cloud security engineer with 19 years of experience spanning infrastructure, development, and security operations. I specialize in **building secure cloud systems** with defense-in-depth architecture, automation, and Infrastructure as Code.
+I design, build, and secure cloud-native applications with a focus on:
 
-**Current Focus:**
-- **Building in public:** Architecting and launching <a href="https://github.com/jmorrissette1/print-and-deploy">Print and Deploy</a> a production e-commerce platform on Azure
-- **Security-first design:** Implementing enterprise-grade security from day one, not bolting it on later
-- **Cloud engineering:** Azure infrastructure, Terraform, serverless architecture, cost optimization
-- **Security automation:** Python-based threat detection, compliance monitoring, and incident response
+- Identity-first architecture (RBAC, Managed Identity)
+- Secure application design (OWASP, API protection, input validation)
+- Infrastructure as Code (Terraform)
+- Detection and monitoring (KQL, Sentinel, structured telemetry)
 
-**What makes me different:**
-My 19-year journey (Help Desk → Sysadmin → Network Engineer → Developer → Security) gives me **full-stack visibility** into how systems are built, deployed, secured, exploited, and defended. I don't just configure cloud platforms. I **engineer secure systems** with deep understanding of the entire stack.
+My work combines cloud engineering, application security, and detection to create systems that are secure by design—not patched later.
 
 ---
 
-## Featured Project: Print and Deploy
+## 🔐 Featured Project — Print & Deploy
 
-**A security-first e-commerce platform built on Azure**
+A production Azure-based e-commerce platform handling authentication, payments, and user data.
 
-[🔗 View Project]([https://github.com/jmorrissette1/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy)) | 📅 Launching March 2026
+🔗 https://github.com/Jmorrissette1/print-and-deploy
 
-**What it demonstrates:**
-- ✅ **Production infrastructure:** Real business processing actual payments
-- ✅ **Security architecture:** Key Vault, RBAC, comprehensive audit logging, PCI compliance
-- ✅ **Infrastructure as Code:** 100% Terraform, reproducible deployments
-- ✅ **Cost optimization:** Running at ~$2/month using Azure free tiers
-- ✅ **Polyglot development:** TypeScript (business logic) + Python (security automation)
-- ✅ **Full documentation:** Architecture decisions, deployment logs, security design
+### Key Highlights
+- Managed Identity for service-to-service authentication (no stored credentials)
+- Azure Key Vault for centralized secret management
+- RBAC enforcement across API endpoints
+- Stripe webhook signature validation for secure payment processing
+- Detection-ready telemetry using KQL and structured logging
+- Terraform-based infrastructure (in progress)
 
-**Tech Stack:**  
-Azure (Key Vault, Functions, Cosmos DB, Static Web Apps) | Terraform | TypeScript | Python | Next.js | Stripe
-
-**Security Highlights:**
-- Defense-in-depth architecture designed from day one
-- Zero secrets in code (all in Key Vault with RBAC)
-- Automated threat detection (Python security functions)
-- Comprehensive audit logging (90-day retention)
-- PCI-compliant payment processing
-
-> This isn't a tutorial project — it's a **real business** that doubles as a portfolio demonstrating production cloud security engineering.
+> This is a real business and production system, not a demo project.
 
 ---
 
-### Cloud Engineering & Infrastructure Projects
-- **[Print and Deploy]([https://github.com/jasonmorrissette/print-and-deploy](https://github.com/Jmorrissette1/print-and-deploy))** - Production e-commerce platform with enterprise security
+## 🚗 Active Project — Driven By You (In Development)
 
-### Security Operations & Detection Engineering
-- **Threat Hunts** - Hypothesis-driven investigations with full timelines
-- **Detection Rules** - Custom KQL queries for Sentinel/Defender
-- **Security Automation** - Python scripts for threat detection and compliance
-- **SOC Writeups** - TTPs, IOCs, and remediation documentation
+Cloud-native Azure application supporting a mobile-first campaign with real user interaction and lead capture.
 
-### 🔧 Blue Team Tools & Automation 
-<ul>**[Simulated Detection Environment](#)
-    <li>Canary</li>
-</ul>
-<ul>[Vulnerability Management](#)
-  <li>Coming Soon</li>
-</ul>
-- **[STIG Implementations](#)** - Automated compliance checks
-- **[CVE Remediations](#)** - Hands-on analysis and fixes
-
-### 🎯 Threat Hunting & Investigations
-- **[Port of Entry](#)** - Cyber range community investigation
-- Defender for Endpoint hunting queries
-- Microsoft Sentinel correlation rules
+### Highlights
+- Azure Static Web Apps + Cosmos DB
+- Secure API design with server-side validation
+- Entra ID (MSAL) for internal authentication
+- Key Vault integration (no plaintext secrets)
+- CI/CD with GitHub Actions
+- Designed for low-bandwidth, real-world conditions
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Security Approach
 
-**Cloud & Infrastructure:**  
-Azure | Terraform | Azure Functions | Cosmos DB | Key Vault | Log Analytics
+Security is built into every system:
 
-**Security:**  
-Microsoft Sentinel | Defender for Endpoint | SIEM (KQL, SPL) | Vulnerability Management | Threat Hunting
-
-**Development:**  
-Python | TypeScript/Node.js | PowerShell | Bash | Next.js
-
-**Security Tools:**  
-Tenable | Splunk | Wireshark | Volatility | YARA
+- No plaintext secrets
+- Least privilege access
+- Identity over credentials
+- Validation at every layer
+- Detection from day one
 
 ---
 
-## 🎯 Current Goals
+## 🛠️ Core Stack
 
-**Q1 2026:**
-- ✅ Launch Print and Deploy (March 31)
-- 🔄 Build Python security automation suite (threat detection, compliance monitoring)
-- 🔄 Expand cloud security portfolio
-- 🔄 Pursue cloud security engineering opportunities
+**Cloud & Security**  
+Azure | Entra ID | Key Vault | Terraform | Sentinel | Log Analytics  
 
-**Learning:**
-- Advanced Azure security (Defender for Cloud, Sentinel)
-- Security automation with Python
-- Threat modeling and risk assessment
-- Cloud cost optimization at scale
+**Development**  
+TypeScript | Node.js | Python | Next.js  
+
+**Security & Detection**  
+KQL | SIEM | Threat Hunting | Vulnerability Management  
 
 ---
 
-## Background
+## 📫 Connect
 
-**19 Years in IT:**  
-Help Desk → Systems Administrator → Network Engineer → Software Developer → Security Operations
-
-This journey gives me unique perspective:
-- **Infrastructure:** I've built and operated the systems attackers target
-- **Development:** I understand how (and why) vulnerabilities are introduced
-- **Security:** I know how to detect, investigate, and remediate threats
-- **Cloud:** I engineer secure, scalable, cost-effective solutions
+- LinkedIn: https://linkedin.com/in/jasonmorrissette  
+- Portfolio: https://printanddeploy.com  
 
 ---
 
-## Certifications
-
-**Obtained:**
-- [List your current certs]
-
-**In Progress:**
-- AZ-900
-- Sec + 
-
-
-## 🎮 Practical Experience
-
-**Active Labs & Platforms:**
-- TryHackMe
-- HackTheBox
-- Azure
----
-
-## 📫 Let's Connect
-
-**LinkedIn:**[Connect With ME](https://www.linkedin.com/in/jasonmorrissette/)
-**Email:** j.morrissette47@gmail.com  
-**Website:** [printanddeploy.com](https://printanddeploy.com) *(launching March 2026)*
-
-**Open to:** Cloud Security Engineering roles | Building in public | Cybersecurity community
-
----
-
-**⚔️ Building secure systems. Hunting threats. Engineering solutions.**
-
-*Currently building: A production e-commerce platform with security-first architecture on Azure*
-```
+⚔️ Building secure systems. Engineering defenses. Shipping real solutions.
