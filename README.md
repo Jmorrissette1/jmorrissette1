@@ -77,7 +77,6 @@ KQL | SIEM | Threat Hunting | Vulnerability Management
 ## 📫 Connect
 
 - LinkedIn: https://linkedin.com/in/jasonmorrissette  
-- Portfolio: https://printanddeploy.com  
 
 ---
 
