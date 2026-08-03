@@ -331,6 +331,8 @@ Core Principles:
 
 ---
 
+<--
+
 # 2026 Security Roadmap
 
 ## Certifications
@@ -348,7 +350,7 @@ Core Principles:
 - [ ] Complete Cyber Range
 - [ ] Publish AI Security Research
 - [ ] Publish Security Write-ups
-
+-->
 ---
 
 # Connect
