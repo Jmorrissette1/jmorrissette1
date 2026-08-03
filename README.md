@@ -80,7 +80,7 @@ Highlights:
 
 # Threat Hunting
 
-🚧 Coming Soon
+Coming Soon
 
 This repository will document threat hunting investigations including:
 
@@ -95,7 +95,7 @@ This repository will document threat hunting investigations including:
 
 # Detection Engineering
 
-🚧 Coming Soon
+Coming Soon
 
 Collection of:
 
@@ -109,7 +109,7 @@ Collection of:
 
 # Cyber Range
 
-🚧 Coming Soon
+Coming Soon
 
 Personal security lab including:
 
