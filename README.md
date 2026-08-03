@@ -19,3 +19,21 @@ Current areas of focus include:
 - Vulnerability Management
 - Secure Software Engineering
 - Cloud Security
+
+## Current Focus
+
+🔹 Building TUG (Trusted Unified Governance)
+
+🔹 Microsoft Sentinel
+
+🔹 KQL
+
+🔹 Threat Hunting
+
+🔹 Detection Engineering
+
+🔹 Azure Security
+
+🔹 AI Security Automation
+
+🔹 Personal Cyber Range
