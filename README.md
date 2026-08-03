@@ -29,3 +29,14 @@ Roadmap
 • SOC Automation
 • AI Incident Response
 • Vulnerability Management
+
+
+Microsoft Sentinel
+
+KQL
+
+MITRE ATT&CK
+
+Incident Analysis
+
+Detection Engineering
