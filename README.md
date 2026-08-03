@@ -78,21 +78,6 @@ Highlights:
 
 ---
 
-## 🌐 Driven By You
-
-Cloud-native Azure application built for production deployment.
-
-Highlights:
-
-- Azure Static Web Apps
-- Cosmos DB
-- Entra ID
-- CI/CD
-- Key Vault
-- Secure APIs
-
----
-
 # Threat Hunting
 
 🚧 Coming Soon
