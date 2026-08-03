@@ -331,7 +331,7 @@ Core Principles:
 
 ---
 
-<--
+<!--
 
 # 2026 Security Roadmap
 
@@ -350,6 +350,7 @@ Core Principles:
 - [ ] Complete Cyber Range
 - [ ] Publish AI Security Research
 - [ ] Publish Security Write-ups
+
 -->
 ---
 
