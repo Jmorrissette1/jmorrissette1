@@ -37,3 +37,16 @@ Current areas of focus include:
 🔹 AI Security Automation
 
 🔹 Personal Cyber Range
+AI-powered Security Engineering Platform
+
+Mission
+
+Build autonomous security agents that assist engineers with:
+
+• Threat Hunting
+• Detection Engineering
+• Website Security
+• Cloud Security
+• Vulnerability Management
+• Governance
+• AI Security
