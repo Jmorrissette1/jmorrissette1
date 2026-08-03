@@ -1,27 +1,5 @@
-Jason Morrissette
-Security Engineer | AI Security | Threat Hunting | Detection Engineering
+# Jason Morrissette
 
--------------------------------------------------
+## Security Engineer | AI Security | Threat Hunting | Detection Engineering
 
-About
-
-Current Focus
-
-Featured Projects
-    🤖 TUG
-    🔒 Print & Deploy Security
-    ☁ Azure Security Labs
-
-Threat Hunting
-
-Detection Engineering
-
-AI Security
-
-Cyber Range
-
-Security Research
-
-Roadmap
-
-Connect
+Building AI-powered security platforms that help organizations detect threats, identify vulnerabilities, automate remediation, and engineer secure cloud systems.
